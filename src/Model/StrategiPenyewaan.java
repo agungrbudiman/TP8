@@ -10,5 +10,5 @@ package Model;
  * @author agungrb
  */
 public interface StrategiPenyewaan {
-    public double kalkulasiBiaya(long biaya);
+    
 }

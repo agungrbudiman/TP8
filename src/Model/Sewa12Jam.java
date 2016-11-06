@@ -10,7 +10,5 @@ package Model;
  * @author agungrb
  */
 public class Sewa12Jam implements StrategiPenyewaan {
-    public double kalkulasiBiaya(long biaya) {
-        return biaya*2-(biaya*0.1*2);
-    }
+    
 }
